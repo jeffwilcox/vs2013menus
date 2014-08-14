@@ -3,7 +3,7 @@
   <metadata>
     <id>vs2013classicmenucasing</id>
     <title></title>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Jeff Wilcox</authors>
     <owners>Jeff Wilcox</owners>
     <summary></summary>
@@ -11,7 +11,7 @@
     <description>This package updates a Visual Studio 2013 registry key changing the menus in VS from UPPERCASE to the more classic File, Edit, Project-style word casing.</description>
     <releaseNotes>Initial release</releaseNotes>
     <iconUrl>http://chocolatey.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
-    <projectUrl>https://github.com/jeffwilcox/</projectUrl>
+    <projectUrl>https://github.com/jeffwilcox/vs2013menus</projectUrl>
     <copyright>Copyright 2014 Jeff Wilcox</copyright>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
     <tags>vs2013 menu casing case classic</tags>
